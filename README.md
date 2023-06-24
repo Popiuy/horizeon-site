@@ -14,3 +14,7 @@ This was done by double checking what line of code was affecting the webpage. I 
 I made the title of the webpage concise and more applicable.
 I added alt attributes to my pictures to add context.
 My motivation was to understand and apply semantic elements to a webpage. I build this project to give me a better idea of how html and css can be refactored to make more sense.
+
+### Links
+https://github.com/Popiuy/horizeon-site
+https://popiuy.github.io/horizeon-site/
