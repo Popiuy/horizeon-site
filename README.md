@@ -1,4 +1,4 @@
-# horizeon-site
+# horiseon-site
 
 ## Technology Used 
 
